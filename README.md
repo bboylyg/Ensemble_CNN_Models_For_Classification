@@ -12,6 +12,4 @@
 -any questions you can leave messages
 <br>
 -some results show in the project
----
-update 2019.4.13
-## a simple demo only use one model for classification
+
